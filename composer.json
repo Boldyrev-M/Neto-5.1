@@ -1,0 +1,14 @@
+{
+    "name": "max/neto-5.1",
+    "description": "using yandex geo",
+    "require": {
+        "yandex/geo": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Max Boldyrev",
+            "email": "maxikb@mail.ru"
+        }
+    ],
+    "minimum-stability": "beta"
+}
